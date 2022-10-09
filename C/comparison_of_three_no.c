@@ -1,4 +1,4 @@
-{
+#include<stdio.h>
     int x,y,c;
     
     printf("Enter the three number to compare\n");
@@ -23,6 +23,5 @@
         }
     }
  
-   getch();
    return 0;
 }
